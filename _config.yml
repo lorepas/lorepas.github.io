@@ -15,7 +15,6 @@ website: https://github.com/lorepas
 darkmode: true
 
 # Social links
-skype_username: lorenzopasco
 github_username:  lorepas
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -140,7 +139,24 @@ content:
       
       These skills have been acquired both thanks to daily life experiences and during my school and university career, having had the opportunity to work in a group thanks to some projects, as well as independently.
 
+  - title: Digital Skills
+    layout: text
+    content: |
+      * Knowledge about programming languages as Python, Java, C and C++
+      * Knowledge about operating systems as Linux and Windows
+      * Knowledge about the Microsoft Office suite: Word, Excel, PowerPoint, Publisher
+      * Knowledge about cloud storage technologies: Dropbox, Google Drive and OneDrive
+      * Autonomous handling of e-mails
+      * Electronic invoicing
+      * Management of PDF files from their creation to digital signature
 
+  - title: Other Skills
+    layout: text
+    content: |
+      * Tutoring activities relating to scientific subjects such as mathematics, physics and computer science to students attending high schools
+      * Amateur football player
+      * Instructor of soccer academy
+      
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
