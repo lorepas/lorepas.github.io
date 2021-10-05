@@ -33,9 +33,9 @@ additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
   url: https://www.itsgoingto.be
- - title: Resume CV
-   icon: far fa-file-pdf  #(https://fontawesome.com/icons?d=gallery&m=free)
-   url: images/cv-lorenzo-pasco.pdf
+- title: Resume CV
+  icon: far fa-file-pdf  #(https://fontawesome.com/icons?d=gallery&m=free)
+  url: images/cv-lorenzo-pasco.pdf
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
