@@ -48,27 +48,27 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Lorenzo Pasco, I've earned a Bachelor Degree of Computer Engineering in 2019 at University of Pisa and I'm currently studying for Master Degree in Artificial Intelligence and Data Engineering at University of Pisa.
+  Hi, my name is Lorenzo Pasco and I come from Pisa, Italy. I've earned a Bachelor Degree of Computer Engineering in 2019 at University of Pisa and I'm currently studying for Master Degree in Artificial Intelligence and Data Engineering at University of Pisa.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Academic Projects
+        link: https://github.com/lorepas?tab=repositories
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  lorepas?tab=repositories
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/lorepas?tab=repositories
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#        quote: >
+#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          In my GitHub repository are available all the projects done during my Master's degree career.
 
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -94,14 +94,27 @@ content:
 #        quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          * Use of Python programming language
+          * Use of MongoDB and Neo4j to handle NoSQL database
+          * Use of TensorFlow and Keras libraries for automatic learning of neural networks
+          * Use of Hadoop and Spark framework to deploy distributed applications
+          * Lightweight virtualization technique with Docker
+          * Use of Kubernetes
+          * Implementation of Deep and Convolutional Neural Networks
+          * Notions about Cybersecurity
+          * Knowledge about the main classification and clustering algorithms
 
       - layout: left
         title: University of Pisa
         caption: 2014 - 2019
         sub_title: Bachelor's degree in Computer Engineering
+        description: | # this will include new lines to allow paragraphs
+          * Reasoning and logical organization
+          * Mathematical skills
+          * Knowledge about a computer and how to connect it in a computers' network
+          * Handling a MySQL database
+          * Develop a web site using HTML, PHP, JavaScript and CSS
+          * Implementation of application using C, C++ and Java as languages programming
         
   - title: A Little More About Me
     layout: text
@@ -110,13 +123,10 @@ content:
       - Rock climbing
       - Gaming
       - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
