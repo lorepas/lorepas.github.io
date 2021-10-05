@@ -96,6 +96,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Thesis work**: *Design and development of artificial intelligence-based
                             techniques for automatic detection of fallen people*
+
           * Use of Python programming language
           * Use of MongoDB and Neo4j to handle NoSQL database
           * Use of TensorFlow and Keras libraries for automatic learning of neural networks
@@ -113,6 +114,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Thesis work**: *Comparative analysis of Java I/O components S.E. in versions
                             11 and 8 through the development of a management application*
+
           * Reasoning and logical organization
           * Mathematical skills
           * Knowledge about a computer and how to connect it in a computers' network
@@ -120,13 +122,12 @@ content:
           * Develop a web site using HTML, PHP, JavaScript and CSS
           * Implementation of application using C, C++ and Java as languages programming
         
-  - title: A Little More About Me
+  - title: Language Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
+      * **Mother language**: Italian
+
+      * **Others languages**: English (level B2)
 
 
 # Footer
