@@ -94,6 +94,8 @@ content:
 #        quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
+          **Thesis work**: *Design and development of artificial intelligence-based
+                            techniques for automatic detection of fallen people*
           * Use of Python programming language
           * Use of MongoDB and Neo4j to handle NoSQL database
           * Use of TensorFlow and Keras libraries for automatic learning of neural networks
@@ -109,6 +111,8 @@ content:
         caption: 2014 - 2019
         sub_title: Bachelor's degree in Computer Engineering
         description: | # this will include new lines to allow paragraphs
+          **Thesis work**: *Comparative analysis of Java I/O components S.E. in versions
+                            11 and 8 through the development of a management application*
           * Reasoning and logical organization
           * Mathematical skills
           * Knowledge about a computer and how to connect it in a computers' network
