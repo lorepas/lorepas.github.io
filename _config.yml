@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Lorenzo Pasco
-title: 
+title: Artificial Intelligence and Data Engineering student
 email: pascolorenzo-at-gmail.com
 website: https://github.com/lorepas
 
@@ -15,17 +15,17 @@ website: https://github.com/lorepas
 darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  lorepas
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: lorenzo-pasco-b8387721b
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
